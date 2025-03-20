@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ikeacat2
+- 👋 Hi, I’m Ivy (@ikeacat2)
 - 🌱 I’m a first year computer science student at UC Santa Barbara, currently taking Object-Oriented Design and Implementation, and Discrete Math!
 
 <!---
