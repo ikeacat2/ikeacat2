@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ivy (@ikeacat2)
 - 🌱 I’m a second year computer science student at UC Santa Barbara (UCSB).
-- 
+
 🔬 Currently working in the [Early Research Scholars Program (ERSP)](https://ersp.cs.ucsb.edu/) on a project with Prof. Arpit Gupta  
 🎯 Goal: Improve transparency in broadband access and support better policy decisions through open-source civic tech.  
 
