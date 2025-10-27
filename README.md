@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ivy (@ikeacat2)
 - 🌱 I’m a second year computer science student at UC Santa Barbara (UCSB).
 
-🔬 Currently working in the [Systems and Networking Lab(SNL)](https://snl.cs.ucsb.edu) on a project with Prof. Arpit Gupta  
+🔬 Currently working in the [Systems and Networking Lab (SNL)](https://snl.cs.ucsb.edu) on a project with Prof. Arpit Gupta  
 🎯 Goal: Improve transparency in broadband access and support better policy decisions through open-source civic tech.  
 
 - **Interests:** data-driven research, civic tech, and impactful web applications  
