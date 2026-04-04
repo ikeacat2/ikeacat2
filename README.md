@@ -1,12 +1,28 @@
-- 👋 Hi, I’m Ivy (@ikeacat2)
-- 🌱 I’m a second year computer science student at UC Santa Barbara (UCSB).
+# @ikeacat2 | Ivy Holiday  
+### CS Student @ UC Santa Barbara (UCSB)
 
-🔬 Currently working in the [Systems and Networking Lab (SNL)](https://snl.cs.ucsb.edu) on a project with Prof. Arpit Gupta  
-🎯 Goal: Improve transparency in broadband access and support better policy decisions through open-source civic tech.  
+## 🔗 About
+[![LINKEDIN](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ivy-holiday-746459266)
+[![DEVPOST](https://img.shields.io/badge/DEVPOST-003E54?style=for-the-badge&logo=devpost&logoColor=white)](https://devpost.com/iholiday)
 
-- **Interests:** data-driven research, civic tech, and impactful web applications  
+I'm a CS student at UCSB interested in **data-driven research, civic tech, and impactful web applications**.
 
-📫 Let’s connect: [LinkedIn](https://www.linkedin.com/in/ivy-holiday-746459266)
+Currently working in the [Systems and Networking Lab (SNL)](https://snl.cs.ucsb.edu) on tools to improve **broadband transparency and policy decision-making**.
+
+---
+
+## 💻 Skills
+**Languages:** C/C++, Python, Java, HTML/CSS, R  
+**Tech:** React, Next.js, TailwindCSS, SQL, Docker, Git  
+
+---
+
+## 🚀 Highlights
+- Built a broadband data portal at UCSB SNL using **Next.js + Apache Superset**, enabling interactive analysis of ISP pricing and coverage  
+- Developed an **AI-powered chatbot** with speech-to-text (Groq + Deepgram) for a full-stack travel platform  
+- Teaching Assistant for **Computer Organization  and Logic Design (CMPSC 64)** — supporting 100+ students with MIPS assembly and digital logic
+- Built an ML-powered **sea level prediction web app** (DataOrbit finalist) using Streamlit + Flask for real-time climate impact visualization  
+
 
 <!---
 ikeacat2/ikeacat2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
