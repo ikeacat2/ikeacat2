@@ -18,9 +18,9 @@ Currently working in the [Systems and Networking Lab (SNL)](https://snl.cs.ucsb.
 ---
 
 ## 🚀 Highlights
-- Built a broadband data portal at UCSB SNL using **Next.js + Apache Superset**, enabling interactive analysis of ISP pricing and coverage  
-- Developed an **AI-powered chatbot** with speech-to-text (Groq + Deepgram) for a full-stack travel platform  
+- Built a broadband data portal at UCSB SNL using **Next.js + Apache Superset**, enabling interactive analysis of ISP pricing and coverage
 - Teaching Assistant for **Computer Organization  and Logic Design (CMPSC 64)** — supporting 100+ students with MIPS assembly and digital logic
+- Developed an **AI-powered chatbot** with speech-to-text (Groq + Deepgram) for a full-stack travel platform  
 - Built an ML-powered **sea level prediction web app** (DataOrbit finalist) using Streamlit + Flask for real-time climate impact visualization  
 
 
