@@ -7,21 +7,22 @@
 
 I'm a CS student at UCSB interested in **data-driven research, civic tech, and impactful web applications**.
 
-Currently working in the [Systems and Networking Lab (SNL)](https://snl.cs.ucsb.edu) on tools to improve **broadband transparency and policy decision-making**.
+Currently working as an undergraduate researcher in UCSB's [Systems and Networking Lab (SNL)](https://snl.cs.ucsb.edu) building tools and collecting data in order to improve broadband transparency and policy decision-making, and in UCSB's [Computer Architecture Lab](https://www.arch.cs.ucsb.edu), working on hardware security research.
 
 ---
 
 ## 💻 Skills
 **Languages:** C/C++, Python, Java, HTML/CSS, R  
-**Tech:** React, Next.js, TailwindCSS, SQL, Docker, Git  
+**Tech:** React, Next.js, TailwindCSS, Spring Boot, SQL, Docker, Git
 
 ---
 
 ## 🚀 Highlights
-- Built a broadband data portal at UCSB SNL using **Next.js + Apache Superset**, enabling interactive analysis of ISP pricing and coverage
-- Teaching Assistant for **Computer Organization  and Logic Design (CMPSC 64)** — supporting 100+ students with MIPS assembly and digital logic
-- Developed an **AI-powered chatbot** with speech-to-text (Groq + Deepgram) for a full-stack travel platform  
-- Built an ML-powered **sea level prediction web app** (DataOrbit finalist) using Streamlit + Flask for real-time climate impact visualization  
+- Software Engineering Intern at MILLY Inc. (Tokyo): built Next.js/React features for a platform connecting manufacturing companies with global clients, including configurable sender names for transactional emails
+- Contributed to a hardware security research paper (Logic Smooshing) in UCSB's Computer Architecture Lab, implementing gate-level circuit rewrites to defend against GNN-based logic locking attacks
+- Built a web portal for UCSB SNL's Broadband-Plan Querying Tool (BQT), using Next.js + Apache Superset for interactive ISP pricing/coverage analysis
+- Undergraduate Learning Assistant for Computer Organization and Logic Design (CMPSC 64), supporting 100+ students with MIPS assembly and digital logic 
+- Built full CRUD admin functionality for Happycows, a React/Spring Boot app, maintaining 100% test and mutation coverage (JaCoCo, PIT, Stryker)
 
 
 <!---
