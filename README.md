@@ -3,6 +3,7 @@
 
 ## 🔗 About
 [![LINKEDIN](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ivy-holiday-746459266)
+[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0009-8911-5202)
 [![DEVPOST](https://img.shields.io/badge/DEVPOST-003E54?style=for-the-badge&logo=devpost&logoColor=white)](https://devpost.com/iholiday)
 
 I'm a CS student at UCSB interested in **data-driven research, civic tech, and impactful web applications**.
